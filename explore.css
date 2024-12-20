@@ -1,0 +1,42 @@
+#explore{
+    margin-top: 40px;
+}
+#popular p{
+    font-size: 30px;
+    margin-left: 120px;
+    font-size: 30px;
+    line-height: 45px;
+    font-weight: 500;
+
+}
+#more{
+    width: 100%;
+    border: 1px solid #cfcfcf;
+    margin-bottom: 20px;
+    max-width: 1300px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin-left: 120px;
+    margin-top: 25px;
+    border-radius: 10px;
+    box-shadow: #1c1c1c14 0px 1.4px 2.8px ;
+ 
+} 
+#more h5{
+
+    padding: 25px 27px;   
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    font-weight: 400;
+ 
+} 
+#more i{
+    display: flex;
+    align-items: center;
+    margin-right: 15px;
+    gap: 50px;
+    }

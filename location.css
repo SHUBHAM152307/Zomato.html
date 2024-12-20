@@ -1,0 +1,82 @@
+#location{
+    margin-bottom: 100px;
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    max-width: 1100px;
+    margin: auto;
+    padding-bottom: 100px;
+}
+
+#location-title{
+    margin-top: 10%;
+    margin-bottom: 3%;
+}
+
+#location-title p{
+    font-size: 36px;
+    color: #363636;
+}
+
+#location-title p span{
+    font-weight: 600;
+}
+
+
+
+#places{
+    border: 1px solid #e8e8e8;
+    padding: 12px 15px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+    box-shadow: #1c1c1c14 0px 1.4px 2.8px ;
+}
+
+
+#placename{
+    line-height: 30px;
+}
+
+#placename h5{
+    font-size: 20px;
+    color: #1c1c1c;
+    font-weight: 500;
+}
+
+#placename p{
+    font-size: 16px;
+    color: #363636;
+}
+
+#location-container{
+   width: 32%;
+  
+}
+
+
+#location-parent{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+gap: 10px; 
+}
+
+#see{
+    width: 32%;
+    height: 100%;
+    line-height: 10px;
+    border:  1px solid #e8e8e8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 6px;
+    box-shadow: #1c1c1c14 0px 1.4px 2.8px ;
+}
+#see p{
+    margin: 34px 33px ;
+}
+
+#see i{
+    margin: 34px 33px ;
+}
